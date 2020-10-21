@@ -5,4 +5,7 @@
 _site
 Gemfile.lock
 
+*.sublime-project
+*.sublime-workspace
+
 node_modules
